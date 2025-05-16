@@ -1,0 +1,32 @@
+
+.sm\:.data-testid  {
+    @media (width >= 40rem /* 640px */) {
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+md\:min-h-screen {
+    @media (width >= 48rem) {
+        min-height: 70vh
+;
+    }
+}
+
+.bg-black {
+    background:linear-gradient( black , rgb(0, 0, 21)) ;
+}
+.btn1:hover{
+    background-color: aliceblue;
+    color: blue;
+    transition: 0.2s;
+    font: bold;
+
+}
+.nav:hover{
+    background-color: aliceblue;
+    color: rgb(1, 1, 21);
+    transition: 0.2s;
+    font: bold;
+}
