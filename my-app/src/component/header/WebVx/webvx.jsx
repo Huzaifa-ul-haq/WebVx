@@ -79,7 +79,7 @@ export default function HomeComponent() {
 
       {/* -------------------------> about section start<---------------- */}
 
-      <div className="w-full bg-gray-300 flex flex-col md:flex-row border-2 justify-center border-blue-500 p-5">
+      <div className="w-full bg-gray-300 flex flex-col md:flex-row justify-center p-5">
         {/* Left Panel */}
         <div className="w-full md:w-1/2 min-h-[60vh] md:min-h-[80vh] flex flex-col justify-center items-center bg-black text-white p-8 space-y-6 text-center">
           <h2 className="text-lg font-bold font-mono text-blue-600  text-left">ABOUT US</h2>
@@ -130,7 +130,7 @@ export default function HomeComponent() {
 
             {/* --------------------------------->Token section start <-------------- */}
 
-      <div className="bg-black text-white w-full h-auto pt-15 p-5  border-2 border-blue-700">
+      <div className="bg-black text-white w-full h-auto pt-15 p-5 ">
         <div className="flex justify-center py-5">
           <h1 className='text-white font-extrabold text-4xl pt-5 p-0'>With XV Token the <br /> possibilities are limitless</h1>
         </div>
