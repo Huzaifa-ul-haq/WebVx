@@ -79,7 +79,7 @@ export default function HomeComponent() {
 
       {/* -------------------------> about section start<---------------- */}
 
-      <div className="w-full bg-gray-300 flex flex-col md:flex-row border-2 justify-center border-blue-500">
+      <div className="w-full bg-gray-300 flex flex-col md:flex-row border-2 justify-center border-blue-500 p-5">
         {/* Left Panel */}
         <div className="w-full md:w-1/2 min-h-[60vh] md:min-h-[80vh] flex flex-col justify-center items-center bg-black text-white p-8 space-y-6 text-center">
           <h2 className="text-lg font-bold font-mono text-blue-600  text-left">ABOUT US</h2>
