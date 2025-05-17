@@ -1,15 +1,15 @@
 import React from 'react'
 import { Button, Label, TextInput } from "flowbite-react";
 
-import logo1 from "/src/assets/images/logo (1).png"
-import logo2 from "/src/assets/images/logo (2).png"
-import logo3 from "/src/assets/images/logo (3).png"
-import logo4 from "/src/assets/images/logo (4).png"
-import logo5 from "/src/assets/images/logo (5).png"
-import logo6 from "/src/assets/images/logo.6.png"
-import logo7 from "/src/assets/images/logo.7.png"
-import aboutimg from "/src/assets/images/about.pic.png"
-import crypto from "/src/assets/images/History.png"
+import logo1 from "/images/logo (1).png"
+import logo2 from "/images/logo (2).png"
+import logo3 from "/images/logo (3).png"
+import logo4 from "/images/logo (4).png"
+import logo5 from "/images/logo (5).png"
+import logo6 from "/images/logo.6.png"
+import logo7 from "/images/logo.7.png"
+import aboutimg from "/images/about.pic.png"
+import crypto from "/images/History.png"
 
 
 export default function HomeComponent() {

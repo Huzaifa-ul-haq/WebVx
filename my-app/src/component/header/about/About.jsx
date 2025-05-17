@@ -1,10 +1,10 @@
 import React from 'react'
-import aboutimg from "/src/assets/images/about.pic.png"
+import aboutimg from "/images/about.pic.png"
 import { Card } from "flowbite-react";
-import  aboutimg1 from "/src/assets/images/Image (1).png"
-import aboutimg2 from "/src/assets/images/about.pic2.png"
-import aboutimg3 from "/src/assets/images/about.pic3.png"
-import aboutimg4 from "/src/assets/images/about.pic4.png"
+import  aboutimg1 from "/images/Image (1).png"
+import aboutimg2 from "/images/about.pic2.png"
+import aboutimg3 from "/images/about.pic3.png"
+import aboutimg4 from "/images/about.pic4.png"
 export default function AboutComponent() {
   return (
    <>
@@ -45,7 +45,7 @@ export default function AboutComponent() {
     <h1 className="text-4xl  text-white font-bold p-10 flex justify-center">How you Buy $XV Token</h1>
   </div>
 
- <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
+ <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-4 ">
   <Card className="bg-gray-950 text-white p-6 rounded-xl shadow-lg">
     <img src={aboutimg1} alt="Wallet Icon" className="mb-4" />
     <h5 className="text-2xl font-bold mb-2">Create a Wallet</h5>

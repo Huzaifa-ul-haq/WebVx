@@ -1,5 +1,5 @@
 import React from 'react';
-import myImg from '/src/assets/images/myImg.png';
+import myImg from '/images/myImg.png';
 
 export default function FooterComponent() {
     return (

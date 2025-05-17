@@ -1,9 +1,9 @@
 import React from 'react'
 import { Card } from "flowbite-react";
-import card1 from "/src/assets/images/card.1.png"
-import card2 from "/src/assets/images/card.2.png"
-import card3 from "/src/assets/images/axie-infinity-logo 1.png"
-import card4 from "/src/assets/images/IMG_9863-e1660777555411 1.png"
+import card1 from "/images/card.1.png"
+import card2 from "/images/card.2.png"
+import card3 from "/images/axie-infinity-logo 1.png"
+import card4 from "/images/IMG_9863-e1660777555411 1.png"
 
 export default function Allprojects() {
   return (

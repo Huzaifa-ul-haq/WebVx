@@ -1,8 +1,8 @@
 
 import { Button, Navbar, NavbarBrand, NavbarCollapse,  NavbarToggle } from "flowbite-react";
-import { Toast, ToastToggle } from "flowbite-react";
+
 import { NavLink } from "react-router";
-import myImg from '/src/assets/images/myImg.png';
+import myImg from '/images/myImg.png'
 
 
 

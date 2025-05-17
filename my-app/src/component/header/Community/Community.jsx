@@ -1,7 +1,7 @@
 
 import React from 'react'
 import { Button, Label, TextInput } from "flowbite-react";
-import communityImg from "/src/assets/images/Users.png"
+import communityImg from "/images/Users.png"
 
 export default function Community() {
   return (
